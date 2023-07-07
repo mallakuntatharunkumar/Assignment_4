@@ -1,0 +1,110 @@
+.none {
+    text-align: center;
+    margin: 20px;
+    color: black;
+    border: none;
+}
+
+.dotted {
+    border: 5px dotted tomato;
+    padding: 5px;
+    text-align: center;
+    margin: 20px;
+
+}
+
+.dotted1 {
+    font-size: x-large;
+    font-weight: bolder;
+    color: brown;
+}
+
+.dashed {
+    border: 10px dashed;
+    padding: 5px;
+    text-align: center;
+    margin: 20px;
+}
+
+.dashed1 {
+    font-size: x-large;
+    font-weight: bolder;
+    color: blue;
+}
+
+.solid {
+    border: 10px solid;
+    padding: 5px;
+    text-align: center;
+    margin: 20px;
+}
+
+.solid1 {
+    font-size: x-large;
+    font-weight: bolder;
+    color: rgb(255, 0, 4);
+}
+
+.double {
+    margin: 20px;
+    border: 10px double;
+    padding: 5px;
+    text-align: center;
+}
+
+.double1 {
+    font-size: x-large;
+    font-weight: bolder;
+    color: black
+}
+
+.groove {
+    border: 10px groove pink;
+    padding: 5px;
+    margin: 20px;
+    text-align: center;
+}
+
+.groove1 {
+    font-size: x-large;
+    font-weight: bolder;
+    color: goldenrod;
+}
+
+.ridge {
+    border: 10px ridge yellow;
+    margin: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+.ridge1 {
+    font-size: x-large;
+    font-weight: bolder;
+    color: rebeccapurple;
+}
+
+.inset {
+    border: 10px inset green;
+    margin: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+.inset1 {
+    font-size: x-large;
+    font-weight: bolder;
+    color: coral;
+}
+.outset {
+    border: 10px inset green;
+    margin: 20px;
+    text-align: center;
+    padding: 5px;
+}
+
+.outset1 {
+    font-size: x-large;
+    font-weight: bolder;
+    color: skyblue;
+}
